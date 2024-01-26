@@ -1,0 +1,12 @@
+server:
+  port: 8005
+spring:
+  application:
+    name: nacos-userservice
+  cloud:
+    nacos:
+      discovery:
+        #namespace: dev
+        server-addr: 192.168.137.1:8848
+        ephemeral: false
+        cluster-name: GZ-TEST

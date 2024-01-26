@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-cloud-netflix-eureka-server-4.1.0 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/serviceuser/lib/spring-cloud-netflix-eureka-server-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

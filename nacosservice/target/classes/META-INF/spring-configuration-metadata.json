@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "spring.cloud.nacos.discovery",
+      "type": "com.example.nacosservice.MyConfiguration",
+      "sourceType": "com.example.nacosservice.MyConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.cloud.nacos.discovery.namespace",
+      "type": "java.lang.String",
+      "sourceType": "com.example.nacosservice.MyConfiguration"
+    },
+    {
+      "name": "spring.cloud.nacos.discovery.server-addr",
+      "type": "java.lang.String",
+      "sourceType": "com.example.nacosservice.MyConfiguration"
+    }
+  ],
+  "hints": []
+}
